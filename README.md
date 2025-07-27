@@ -33,7 +33,7 @@ Berikut adalah konsep-konsep OOP yang telah saya pelajari dan praktikan:
 - [x] Inner Class
 - [x] Rekursif Function
 - [x] Linked List
-- [ ] Insert Head
+- [x] Insert Head
 - [x] Extension Function
 
 ## 🔍 Materi Lanjutan yang Akan Dipelajari
